@@ -1,0 +1,30 @@
+
+skype id for futione : hemant.agrawal@fusioninformatics.co.in
+
+Gmail Id : testlast11@gmail.com / 3178fipl
+
+Gmail Account for Company : hemant.agrawal@fusioninformatics.co.in / F!pl3178
+                     URL  :  http://67.220.184.226:9998/
+
+
+
+
+
+Today Work :
+
+1 .GraphQL ,RabbitMQ ,Redis ,JWT Token RND
+
+
+
+EC2 : 
+
+hemantagrawal@vernost2-Latitude-3400:~/Desktop/Fitworked/sendgoodskey$ sudo ssh -i "sendgoodskey.pem" ubuntu@ec2-13-233-133-23.ap-south-1.compute.amazonaws.com
+
+Host : sftp://ec2-13-233-133-23.ap-south-1.compute.amazonaws.com
+username : ubuntu 
+
+
+http://15.207.149.38/
+
+
+sudo openvpn --config hemant.agrawal__ssl_vpn_config.ovpn

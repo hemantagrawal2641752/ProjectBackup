@@ -1,0 +1,70 @@
+DataBase import = mongorestore --db realwave --collection event dump/realwave/event.bson
+
+Project Download = git clone https://gitlab.com/projects.fipl/realwave.git
+
+6 = git pull
+
+5 = git remote -v
+
+4 = git checkout master
+
+3 = git status
+
+2 = git branch
+
+1 = cd realwave
+
+
+MongoDb import file
+
+mongorestore --db Realwave --collection activityLog dump/realwave/activityLog.bson
+
+hemant.agarwal.agile@outlook.com
+Jqt44MF$cn!
+
+
+
+ping 192.68.2.209
+
+sudo openvpn --config hemant.agrawal__ssl_vpn_config.ovpn
+
+/opt/Nodeserver/easyR
+
+live server => ssh agile@192.168.2.209
+
+userName : hemant.agrawal   
+pass : Welcom$Hemant
+
+userSignUp
+startLocationSharing
+providerCheckIn
+
+change : service_provider.js => addFavratesProvider
+change : user.js => refcode ralted code put
+
+
+
+hemantagrawal@vernost2-Latitude-3400:~/realwave/DB$ mongorestore --db Realwave --collection videoClip dump/realwave/videoClip.bson
+
+
+// Add github code
+git checkout dev_hemant
+git add -A
+git commit -m ""
+git pull origin develop
+git push origin dev_hemant
+git checkout develop
+git pull origin develop
+git merge dev_hemant
+git push origin develop
+git checkout dev_hemant
+
+
+
+
+Apply for the Backend developer.
+Hi, I having experience in Nodejs, Expressjs, MongoDB, MySql, AWS, React JS, Rest API. 
+I have 2 years of experience. I have attached my resume. I will immediately join.
+
+
+Documents/mongoDBProgram

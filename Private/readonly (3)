@@ -1,0 +1,25 @@
+UBPROD-->READONLY
+
+User -->UrbanRead
+Passwd->Ur3@N$$
+Database->jpplurbanbookdb
+Host-->jp-ver-urbanbook-cluster.cluster-c9kfbw8u8roz.ap-south-1.rds.amazonaws.com
+
+Hotels -->READONLY
+User-->hamseread
+Passwd->h@m$3R&
+Database->vehamsedb
+Host-->jpplvmsproddb.cluster-ccw0cuom1rdj.ap-south-1.rds.amazonaws.com
+
+OTP-->READONLY
+User-->otpread
+Passwd-->0Tp*R3@d
+Database-->jpplotpengine
+Host-->otpengine.ccw0cuom1rdj.ap-south-1.rds.amazonaws.com
+
+Lounge-->READONLY
+User-->loungeRead
+Passwd-->!0ung3@
+Database-->jppl_loungedb
+Host--->jp-ver-lounge-writer.c9kfbw8u8roz.ap-south-1.rds.amazonaws.com
+

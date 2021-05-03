@@ -1,0 +1,1 @@
+ssh -i UB-Prod.pem ec2-user@13.235.182.69
